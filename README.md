@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Automation using **Cypress.**
+- 🔭 I’m currently working on Automation using **Cypress and Playwright**
 - ⚡ I'm expertise in Manual Test on Web, Mobile, API and Database.
 - 🌱 I’m currently learning Cloud, CICD.
 - 😄 I like watching Anime, reading Manga and self development Books.
